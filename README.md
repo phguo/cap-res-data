@@ -1,6 +1,6 @@
 # Dataset of “*Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut*”
 
-This repository is the dataset associated with the paper  `Guo, P., & Zhu, J. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. *****, ***, ***-***. doi: ****.`
+This repository is the dataset associated with the paper  `Guo, P., & Zhu, J. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. European Journal of Operational Research. https://doi.org/10.1016/j.ejor.2023.06.006`
 
 This dataset consistent of two parts:
 
@@ -10,15 +10,15 @@ This dataset consistent of two parts:
 Cite this dataset use
 
 ```
-@article{guoProductionCapacity2023,
+@article{guoCapacityReservationHumanitarian2023,
   title={Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut},
   author={Guo, Penghui and Zhu, Jianjun},
   year={2023},  
-  journal = {*****},
+  journal = {European Journal of Operational Research},
   volume = {***},
   number = {*},
   pages = {***--***},
-  doi = {****}
+  doi = {10.1016/j.ejor.2023.06.006}
 }
 ```
 
