@@ -1,11 +1,13 @@
 # Dataset of “*Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut*”
 
-This repository is the dataset associated with the paper  `Guo, P., & Zhu, J. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. European Journal of Operational Research. https://doi.org/10.1016/j.ejor.2023.06.006`
+This repository is the dataset associated with the paper:
+
+*Guo, P., & Zhu, J. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. European Journal of Operational Research, 311(3), 942–970. [https://doi.org/10.1016/j.ejor.2023.06.006](https://doi.org/10.1016/j.ejor.2023.06.006)*
 
 This dataset consistent of two parts:
 
 - [`**-**-*.json`] Synthetic data generated in this paper.
-- [`case_national/state.json`] Real-world case study data adapted from *Veloso, R., Cespedes, J., Caunhye, A., & Alem, D. (2022). Brazilian disaster datasets and real-world instances for optimization and machine learning. Data in Brief, 42, 108012. https://doi.org/10.1016/j.dib.2022.108012*.
+- [`case_national/state.json`] Real-world case study data adapted from `Veloso, R., Cespedes, J., Caunhye, A., & Alem, D. (2022). Brazilian disaster datasets and real-world instances for optimization and machine learning. Data in Brief, 42, 108012. https://doi.org/10.1016/j.dib.2022.108012`.
 
 Cite this dataset use
 
@@ -15,9 +17,9 @@ Cite this dataset use
   author={Guo, Penghui and Zhu, Jianjun},
   year={2023},  
   journal = {European Journal of Operational Research},
-  volume = {***},
-  number = {*},
-  pages = {***--***},
+  volume = {311},
+  number = {3},
+  pages = {942--970},
   doi = {10.1016/j.ejor.2023.06.006}
 }
 ```
